@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satyamyendhe
 - 👀 I’m interested in web develpoment
 - 🌱 I’m currently in BE
-- 📫 mail me on - satyamyendhe@gmail.com
+- 📫 mail me on - satyamyendhe7@gmail.com
 
 <!---
 satyamyendhe/satyamyendhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
