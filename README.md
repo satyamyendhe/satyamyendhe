@@ -44,8 +44,6 @@
 
 ---
 
----
-
 ## 🤝 Let’s Connect
 
 Open to collaboration, performance engineering, and scaling real-world systems.
