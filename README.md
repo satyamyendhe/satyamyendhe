@@ -1,5 +1,5 @@
 <img align="center" width="1200" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
-# 👨‍💻 Satyam | Software Developer
+<h1>👨‍💻 Satyam | Software Developer</h1>
 
 🚀 Passionate Software Engineer with deep hands-on experience in building scalable, efficient, and robust applications using modern development stacks. With a strong foundation in systems design, backend architecture, and performance tuning, I enjoy solving complex problems using clean, bug-free code.
 
