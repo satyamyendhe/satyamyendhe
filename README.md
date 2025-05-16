@@ -44,21 +44,6 @@
 
 ---
 
-## 📌 Achievements
-
-- ⚡ Increased microservice performance by **30%** using a custom Go framework.
-- 🧹 Reduced build/deployment time via optimized CI/CD and caching mechanisms.
-- 🧠 Implemented robust testing and rollback strategies for GORM-based DB ops.
-- 💬 Delivered real-time features using NATS and WebSocket integrations.
-
----
-
-## 🧭 Currently Exploring
-
-- Advanced Go concurrency tuning and internals.
-- Distributed transaction patterns and service resiliency.
-- System observability, tracing, and monitoring at scale.
-
 ---
 
 ## 🤝 Let’s Connect
