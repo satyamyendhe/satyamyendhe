@@ -1,5 +1,5 @@
 <img align="center" width="1200" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
-# 👨‍💻 Jaduuu | Software Engineer
+<h1> 👨‍💻 SATYAM | Software Engineer </h1>
 
 🚀 Dedicated Software Engineer specializing in backend systems, distributed services, and scalable application design. I’m passionate about writing clean, bug-free code and optimizing performance across the full stack.
 
